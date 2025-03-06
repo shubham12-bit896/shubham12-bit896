@@ -4,9 +4,9 @@
  🚀 On a mission to revolutionize healthcare with AI, ML, and Data Science <br>
 
 <h4>🔬 What I Do <br> </h4>
- 🔍 Decode medical images with AI & deep learning <br>
+ <p>🔍 Decode medical images with AI & deep learning <br>
  📊 Uncover hidden insights from healthcare data <br>
- 🌐 Build intelligent web App to drive digital health solutions <br>
+ 🌐 Build intelligent web App to drive digital health solutions <br></p>
 
 <h4>🛠️ Tech Toolbox <br> </h4>
  📈 Data Science & AI: Python | Pandas | Scikit-Learn | PyTorch <br>
