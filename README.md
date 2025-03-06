@@ -1,5 +1,5 @@
 👨‍⚕️✨ Hello, World! I'm shubham 
-🩺 Medical Imaging Enthusiast | 
+🩺 Medical Imaging Enthusiast | <br>
 🎓 MSc in Health Informatics & Analytics
 🚀 On a mission to revolutionize healthcare with AI, ML, and Data Science
 
